@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PuzzleAPI.Controllers.QuestionsController">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAACAAIAABBAAAAQAAAAAAQAAAA=</HashCode>
+      <FileName>Controllers\QuestionsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PuzzleAPI.DAL.QuestionCategoryDAL">
+    <Position X="6.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQIAAFAAAAAAQAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\QuestionCategoryDAL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.158" />
+  </Class>
+  <Interface Name="PuzzleAPI.Interfaces.IQuestionCategory">
+    <Position X="4" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQIAAEAAAAAAQAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IQuestionCategory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
